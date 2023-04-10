@@ -1,5 +1,7 @@
 #  
 App name: Ideal-film-app
+
+
 About:
 IdealFilmFinder is an app designed to help users discover their favorite movies, dramas, and animations. Upon logging in, users can choose a category, and the app will present two random options within that category. Users must select the one they prefer, and the process continues. As users make their selections, the app narrows down their preferences and ultimately reveals their top choices in the chosen category.
 

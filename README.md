@@ -14,4 +14,4 @@ Goals:
 
 Api:https://myanimelist.net/clubs.php?cid=13727
 
-Api: https://api.myanimelist.net/v2
+Api: https://api.jikan.moe/v3/
